@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BraveUX/for-the-badge/master/images/badges/built-with-love.svg" width="180">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e3c7e&height=170&section=header&text=Valentine&fontColor=ffffff&fontSize=50&animation=fadeIn" />
 </p>
 
 <h1 align="center">Hi, I'm Valentin 👋</h1>
